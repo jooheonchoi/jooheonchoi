@@ -4,6 +4,8 @@ I'm currently a third year CS student and eager to learn more, especially about 
 
 In my spare time, I enjoy following hockey (Canucks), playing piano, and painting (acrylic).
 
+Feel free to reach out to me!
+
 <!--
 **jun585/jun585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
