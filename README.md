@@ -1,10 +1,10 @@
 ### Hi there!
 This is Jun in Dec.2020!
-I'm currently a third year CS student and eager to learn more, especially about Javascript/Node.js/React and python.
+I'm currently a third year CS student and eager to learn more, especially about Javascript/Node.js/React and Python.
 
 In my spare time, I enjoy following hockey (Canucks), playing piano, and painting (acrylic).
 
-Feel free to reach out to me!
+Feel free to reach out to me at choi.jun@outlook.com!
 
 <!--
 **jun585/jun585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
