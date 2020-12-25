@@ -1,5 +1,5 @@
 ### Hi there!
-This is Jun in Dec.2020!
+My name's Jun!
 I'm currently a third year CS student and eager to learn more, especially about Javascript/Node.js/React and Python.
 
 In my spare time, I enjoy following hockey (Canucks), playing piano, and painting (acrylic).
