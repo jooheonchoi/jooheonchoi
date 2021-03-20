@@ -1,7 +1,8 @@
 ### Hi there!
 My name's Jun (He, Him)!
 
-I'm currently a third year CS student and eager to learn more, especially about Python and Javascript/Node.js/React.
+I'm currently a third year Computer Science at student primarily interested in backend development
+I'm also eager to learn more about Python and full-stack development with Javascript/Node.js/React.
 
 In my spare time, I enjoy following hockey (Canucks), playing piano, and painting (acrylic).
 
