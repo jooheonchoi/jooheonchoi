@@ -3,7 +3,7 @@ My name's Jun (He, Him)!
 
 I'm currently a third year Computer Science student primarily interested in backend development.
 
-I'm also eager to learn more about Python and full-stack development with Javascript/Node.js/React.
+Current interests are backend developement and data analysis with Python, as well as full-stack with the MERN stack.
 
 In my spare time, I enjoy following hockey (Canucks), playing piano, and painting (acrylic).
 
